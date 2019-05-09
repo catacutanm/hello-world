@@ -1,1 +1,5 @@
 Sample Text File for GitHub uploading
+
+https://github.com/kitchanismo/LibrarySystem.git
+
+https://github.com/mkotson/receptio.git
