@@ -3,3 +3,8 @@ Sample Text File for GitHub uploading
 https://github.com/kitchanismo/LibrarySystem.git
 
 https://github.com/mkotson/receptio.git
+https://github.com/codemaker2015/Student-Information-System.git
+https://github.com/kitchanismo/InventorySystem.git
+
+https://github.com/andrewhamili/SchedulingSystem.git
+
